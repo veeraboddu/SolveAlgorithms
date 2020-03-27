@@ -8,8 +8,8 @@ public class MissingInteger {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//int A[] = {-1, 3, 6, 4, 1, 2,1,2,3,4,5,6,7,8,9,};
-		int A[] = {-1,-2,-3};
-		//int A[] = {1,2,3};
+		//int A[] = {-1,-2,-3};
+		int A[] = {1,4,6,5};
 		int N = A.length;
 		long result =0;
 		Set<Integer> set = new HashSet<Integer>();
