@@ -8,7 +8,7 @@ public class Permutations {
 			int num = 123;
 			String ans="";
 			String st = Integer.toString(num);
-			st ="abc";
+			st ="abcd";
 			printPermutn(st, "");
 		}
 		

@@ -5,8 +5,8 @@ public class LowerUpper {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		// lower 97 - 122
 		// UPPER 65 - 90 unicode 
+		// lower 97 - 122
 		String st = "Veera";
 		
 		for(int i=0;i<st.length();i++) {
