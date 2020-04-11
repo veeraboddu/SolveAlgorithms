@@ -7,7 +7,7 @@ public class RemoveRepeatCharSet {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String st="Veera";
+		String st="Veerae";
 		Set<Character> set = new HashSet<Character>();
 		
 		for(int i=0;i<st.length();i++) {

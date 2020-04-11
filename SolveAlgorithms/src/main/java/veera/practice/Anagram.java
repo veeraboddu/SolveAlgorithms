@@ -9,7 +9,7 @@ public class Anagram {
 		// TODO Auto-generated method stub
 		// given word -cinema/ iceman - is a anagram work
 		String st = "cinema";
-		String st1 ="iceqman";
+		String st1 ="iceman";
 		boolean status = false;
 		List<Character> l1 = new ArrayList<Character>();
 		for(int i=0;i<st.length();i++) {
